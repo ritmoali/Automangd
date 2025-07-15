@@ -1,1 +1,1 @@
-# ai-safety-vision
+# Automangd
